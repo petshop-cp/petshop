@@ -12,9 +12,6 @@ const Header = () => {
                     <li className='lista-item decoration-none text-white hover:text-[#224427] transition duration-500'>
                         <Link to='/produtos'>Produtos</Link>
                     </li>
-                    <li className='lista-item decoration-none text-white hover:text-[#224427] transition duration-500'>
-                        <Link to='/sobre'>Sobre</Link>
-                    </li>
                 </ul>
             </nav>
         </div>
