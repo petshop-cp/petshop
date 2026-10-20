@@ -8,7 +8,7 @@ const produtos = [
     { id: 5, nome: 'Ração Gatos Castrados 3kg', categoria: 'Gatos', preco: 94.9, emoji: '🐈' },
     { id: 6, nome: 'Arranhador com Plataforma', categoria: 'Gatos', preco: 129.9, emoji: '🐱' },
     { id: 7, nome: 'Areia Higiênica 4kg', categoria: 'Gatos', preco: 24.9, emoji: '🧺' },
-    { id: 8, nome: 'Varinha com Penas', categoria: 'Gatos', preco: 14.9, emoji: '🪶' },
+    { id: 8, nome: 'Varinha com Penas', categoria: 'Gatos', preco: 13.9, emoji: '🪶' },
     { id: 9, nome: 'Ração para Peixes Tropicais', categoria: 'Aquário', preco: 12.9, emoji: '🐠' },
     { id: 10, nome: 'Kit Decoração para Aquário', categoria: 'Aquário', preco: 59.9, emoji: '🪸' },
     { id: 11, nome: 'Semente Mix para Calopsita', categoria: 'Aves', preco: 17.9, emoji: '🦜' },
