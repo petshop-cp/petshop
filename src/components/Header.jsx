@@ -6,16 +6,13 @@ const Header = () => {
             <h1 className='titulo text-white text-[2rem] mx-0 font-[Arial, sans-serif] ml-4'>PetShop</h1>
             <nav>
                 <ul className='lista-ordenada list-none mx-0 flex font-[Arial, sans-serif] font-bold justify-between items-center p-[1rem 2rem] gap-7.5'>
-                    <li className='lista-item decoration-none text-white hover:text-black transition duration-500'>
+                    <li className='lista-item decoration-none text-white hover:text-[#224427] transition duration-500'>
                         <Link to='/'>Home</Link>
                     </li>
-                    <li className='lista-item decoration-none text-white hover:text-black transition duration-500'>
-                        <Link to='/servicos'>Serviços</Link>
+                    <li className='lista-item decoration-none text-white hover:text-[#224427] transition duration-500'>
+                        <Link to='/produtos'>Produtos</Link>
                     </li>
-                    <li className='lista-item decoration-none text-white hover:text-black transition duration-500'>
-                        <Link to='/contato'>Contato</Link>
-                    </li>
-                    <li className='lista-item decoration-none text-white hover:text-black transition duration-500'>
+                    <li className='lista-item decoration-none text-white hover:text-[#224427] transition duration-500'>
                         <Link to='/sobre'>Sobre</Link>
                     </li>
                 </ul>
