@@ -5,7 +5,8 @@ import { Link } from 'react-router-dom'
 const Home = () => {
     return (
         <main>
-            <section className="bg-[#FF6B6B] text-white py-20 px-6 text-center">
+
+            <section className="bg-[#224427] text-white py-20 px-6 text-center mt-4">
                 <h1 className="text-4xl font-bold mb-4">
                     🐾 Bem-vindo ao Petshop Amigo Fiel!
                 </h1>
